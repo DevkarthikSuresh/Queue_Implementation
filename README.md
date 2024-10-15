@@ -11,7 +11,7 @@ Experiment 19
 - [Conclusion](#conclusion)
 
 ## Aim 
-To use excepttion handling.
+To use Queue.
 
 ## Software Used 
 VS Code
