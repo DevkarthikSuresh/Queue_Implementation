@@ -72,8 +72,7 @@ struct Queue {
    - If the queue is empty (check with `isEmpty()`), print "Queue is empty."
    - Otherwise, iterate from `front` to `rear`, printing elements in the queue.
    - Use circular indexing to handle wrap-around.
-
-##### Main Function
+**Main Function**
 1. Create an instance of `Queue`.
 2. Repeat the following until the user chooses to exit:
    - Display a menu with options: Insert, Delete, Display, Exit.
